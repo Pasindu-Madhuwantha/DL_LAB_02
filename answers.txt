@@ -1,0 +1,13 @@
+2.
+
+1.accuracy increases and then decreases.
+
+
+2.
+
+there's a balance to be struck when deciding the number of hidden nodes in a neural network.Too 
+few can lead to underfitting, while too many can lead to overfitting. The best number of hidden nodes
+often depends on the complexity of the problem and the amount of available data. Cross-validation or 
+other techniques can help in selecting an appropriate number of hidden nodes to achieve good generalization 
+performance.
+
